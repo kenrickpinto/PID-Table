@@ -69,4 +69,4 @@ fprintf('arduino and servo\n');
 
 fprintf('DONE');
 
-%Kenrick 
+%Kenrick Pinto
